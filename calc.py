@@ -10,3 +10,6 @@ print("4. Division")
 operation = int(input())
 if operation == 1:
     print(a, " + ", b, " = ", a+b)
+elif operation == 2:
+    print(a, " - ", b, " = ", a-b)
+    
